@@ -17,7 +17,7 @@ The dataset was sourced from a publicly available job market dataset used for ed
 - CASE
 - Subqueries
 
-## Dashboard Preview
+## Query Result Preview
 ![SQL Output](avg_salary_by_department.png)
 
 ## Key findings
