@@ -18,7 +18,7 @@ The dataset was sourced from a publicly available job market dataset used for ed
 - Subqueries
 
 ## Query Result Preview
-![SQL Output](average_salary_by_department.png)
+![SQL Output](avg_salary_by_department.png)
 
 ## Key findings
 - AI department has highest average salary
