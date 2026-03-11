@@ -23,4 +23,4 @@ The dataset was sourced from a publicly available job market dataset used for ed
 ## Key findings
 - AI department has highest average salary
 - Analytics has highest number of jobs
-- Data Scientist roles lead salary in AI
+- Data Scientist roles have the highest average salary in AI
